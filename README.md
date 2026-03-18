@@ -1,123 +1,95 @@
-🤖 GEN AI PROJECTS
+# 🤖 GEN AI PROJECTS
 
 This repository contains my Generative AI based projects built using modern AI APIs, backend systems, and interactive web interfaces.
+The goal is to explore real-world applications of AI including health analysis, automation, and intelligent decision systems.
+## 🧠 Skills Demonstrated
+### 🧩 AI / Generative AI
+- LLM API Integration  
+- Prompt Engineering  
+- Image Understanding  
+- AI Response Structuring  
 
-The goal of this repository is to explore practical applications of Generative AI, including image understanding, health analysis, automation, and AI-powered tools.
+### ⚙ Backend Development
+- Python  
+- Flask / FastAPI  
+- REST API Architecture  
+- JSON Handling  
 
-Each project in this repository demonstrates the integration of AI models with real-world software systems.
+### 🌐 Frontend Development
+- HTML  
+- CSS  
+- JavaScript  
+- Fetch API  
 
-🧠 Skills Demonstrated
+### 🛠 Software Engineering
+- API Integration  
+- Client-Server Architecture  
+- Error Handling  
+- Modular Structure  
 
-Through these projects I work with the following technologies and concepts:
+---
 
-🧩 AI / Generative AI
+## 📂 Repository Structure
 
-LLM API Integration
 
-AI Prompt Engineering
-
-Image Understanding with AI
-
-AI Response Structuring
-
-⚙ Backend Development
-
-Python
-
-Flask API Development
-
-REST API Architecture
-
-JSON Data Handling
-
-🌐 Frontend Development
-
-HTML
-
-CSS
-
-JavaScript
-
-Fetch API
-
-Image Upload Interfaces
-
-🛠 Software Engineering
-
-API Integration
-
-Base64 Image Processing
-
-Client-Server Architecture
-
-Error Handling
-
-Modular Project Structure
-
-📂 Repository Structure
-
-GEN_AI_PROJECTS
+GEN_AI_PROJECTS/
 │
-├── health-ai
-└── more-projects-coming
+├── health-ai/
+├── hiresense-ai/
+└── more-coming/
 
-🚀 Projects
-🔹 Project 1 – Health AI
 
-Health AI is a Generative AI powered web application that analyzes food and medicine images and provides useful health insights.
+---
 
-Features
+## 🚀 Projects
 
-Food image analysis
+### 🔹 Project 1 – Health AI
 
-Medicine identification
+Health AI is a Generative AI powered web app that analyzes food and medicine images to provide health insights.
 
-Nutrition insights
+**Features**
+- Food image analysis  
+- Medicine identification  
+- Nutrition insights  
+- Side effects & precautions  
 
-Medicine usage information
+**Tech Stack**
+- Python, Flask  
+- Generative AI API  
+- HTML, CSS, JavaScript  
 
-Side effects and precautions
-
-Technologies Used
-
-Python
-
-Flask
-
-Generative AI API
-
-HTML
-
-CSS
-
-JavaScript
-
-Base64 Image Processing
-
-REST API
-
-Folder
+**Folder**
 
 health-ai/
 
-🔹 Project 2 – (Coming Soon)
 
+---
 
-🎯 Goal of this Repository
+### 🔹 Project 2 – HireSense AI
 
-This repository is part of my journey to build real-world Generative AI systems by combining:
+HireSense AI is an AI-powered recruitment system that analyzes and ranks candidates based on real-world hiring standards.
 
-AI models
+**Features**
+- Deep resume analysis (beyond keywords)  
+- AI-based candidate scoring  
+- Top N candidate selection  
+- “Why Best” explanation with strengths  
+- Market-level evaluation logic  
 
-Backend APIs
+**Tech Stack**
+- Python, FastAPI  
+- Groq API (LLM)  
+- HTML, CSS, JavaScript  
 
-Interactive web interfaces
-
-The focus is on creating practical AI tools rather than only theoretical experiments.
-
-👨‍💻 Author
-
-Himanshu Bendale
-
-AI Developer
-Python | Generative AI | AI Systems
+**Folder**
+hiresense-ai/
+## 🎯 Goal
+To build practical AI systems by combining:
+- AI models  
+- Backend APIs  
+- Interactive interfaces  
+Focus is on real-world problem solving, not just experiments.
+---
+## 👨‍💻 Author
+Himanshu Bendale  
+AI Developer | Python | Generative AI
